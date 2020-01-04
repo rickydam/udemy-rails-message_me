@@ -9,3 +9,7 @@ one: {}
 #
 two: {}
 # column: value
+
+valid:
+  username: rickydam
+  password_digest: password
