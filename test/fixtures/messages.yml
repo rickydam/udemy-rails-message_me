@@ -10,7 +10,6 @@ one: {}
 two: {}
 # column: value
 
-valid_user:
-  id: 1
-  username: rickydam
-  password_digest: password
+valid_message:
+  body: hello world
+  user_id: 1
