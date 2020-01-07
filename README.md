@@ -13,3 +13,4 @@
 * Test-Driven Development (TDD)
 * Fixtures
 * Helper methods
+* byebug
