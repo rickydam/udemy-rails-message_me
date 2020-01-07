@@ -3,9 +3,13 @@
 
 ## Things I learned during this section
 
+* Terminology
+  * Double-bang operator !!
+  * unless conditional statement
 * Semantic UI
 * Testing terminology
   * refute
   * assert_not_nil
 * Test-Driven Development (TDD)
 * Fixtures
+* Helper methods
