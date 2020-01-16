@@ -15,3 +15,5 @@
 * Helper methods
 * byebug
 * ActionCable
+* Coffeescript
+* Render partial from controller
