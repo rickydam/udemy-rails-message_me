@@ -17,3 +17,4 @@
 * ActionCable
 * Coffeescript
 * Render partial from controller
+* Scope
