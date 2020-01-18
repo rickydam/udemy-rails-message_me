@@ -1,3 +1,10 @@
 language: ruby
+
 rvm:
   - 2.6.3
+
+services:
+  - postgresql
+
+script:
+  - bin/rake db:create db:migrate
