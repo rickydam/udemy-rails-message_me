@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/rickydam/udemy-rails-message_me.svg?branch=master)](https://travis-ci.org/rickydam/udemy-rails-message_me)
 [![codecov](https://codecov.io/gh/rickydam/udemy-rails-message_me/branch/master/graph/badge.svg)](https://codecov.io/gh/rickydam/udemy-rails-message_me)
 
+https://udemy-rails-message-me.herokuapp.com/
+
 ## Things I learned during this section
 
 * Terminology
